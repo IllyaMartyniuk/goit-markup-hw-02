@@ -3,8 +3,8 @@
   --main-font: 'Roboto', sans-serif;
   --main-title-color: #212121;
   --main-text-color: #757575;
-  /*===========PORTFOLIO===========*/
-  --hover-focus-text-color: #f5f4fa;
+  --hover-focus-text-color: #ffffff;
+  --main-backgroung-color: #f5f4fa;
 }
 .body {
   font-family: var(--main-font);
